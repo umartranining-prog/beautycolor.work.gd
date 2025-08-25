@@ -1,0 +1,1 @@
+# beautycolor.work.gd
